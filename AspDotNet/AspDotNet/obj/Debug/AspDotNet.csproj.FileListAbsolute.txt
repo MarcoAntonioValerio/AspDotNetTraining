@@ -1,0 +1,7 @@
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\bin\Debug\AspDotNet.exe.config
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\bin\Debug\AspDotNet.exe
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\bin\Debug\AspDotNet.pdb
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.csprojAssemblyReference.cache
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.csproj.CoreCompileInputs.cache
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.exe
+D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.pdb
