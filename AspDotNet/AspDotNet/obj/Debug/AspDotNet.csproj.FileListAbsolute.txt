@@ -5,3 +5,9 @@ D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.csprojAsse
 D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.csproj.CoreCompileInputs.cache
 D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.exe
 D:\mAv\Projects\Personal\_Asp\AspDotNet\AspDotNet\obj\Debug\AspDotNet.pdb
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\bin\Debug\AspDotNet.exe.config
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\bin\Debug\AspDotNet.exe
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\bin\Debug\AspDotNet.pdb
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\obj\Debug\AspDotNet.csprojAssemblyReference.cache
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\obj\Debug\AspDotNet.exe
+D:\Mav\Project\Other\AspDotNetTraining\AspDotNet\AspDotNet\obj\Debug\AspDotNet.pdb
